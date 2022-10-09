@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @KayleeWilliams
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<div align="center">
+ <h1> 👋 Hi, I’m Kaylee!</h1>
+  <p> 
+    <a href="mailto:kaylee@kayleewilliams.dev" target="_blank">
+      <img  src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
+    <a/> 
+    <a href="https://www.kayleewilliams.dev" target="_blank">
+      <img  src="https://img.shields.io/badge/portfolio-F96CE6?style=for-the-badge&logo=Internet-Explorer&logoColor=white" alt="My Portfolio">
+    <a/>
+    <a href="https://www.linkedin.com/in/kaylee-williams-1559251bb/" target="_blank">
+      <img  src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="email">
+    <a/>
+  </p>
+</div> 
+
 
 <!---
 KayleeWilliams/KayleeWilliams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
