@@ -7,7 +7,7 @@
     <a href="https://www.kayleewilliams.dev" target="_blank">
       <img  src="https://img.shields.io/badge/portfolio-F96CE6?style=for-the-badge&logo=Internet-Explorer&logoColor=white" alt="My Portfolio">
     <a/>
-    <a href="www.linkedin.com/in/kaylee-w" target="_blank">
+    <a href="https://www.linkedin.com/in/kaylee-w" target="_blank">
       <img  src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="email">
     <a/>
   </p>
