@@ -1,17 +1,15 @@
-<div align="center">
- <h1> 👋 Hi, I’m Kaylee!</h1>
-  <p> 
-    <a href="mailto:kaylee@kayleewilliams.dev" target="_blank">
-      <img  src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
-    <a/> 
-    <a href="https://www.kayleewilliams.dev" target="_blank">
-      <img  src="https://img.shields.io/badge/portfolio-F96CE6?style=for-the-badge&logo=Internet-Explorer&logoColor=white" alt="My Portfolio">
-    <a/>
-    <a href="https://www.linkedin.com/in/kaylee-w" target="_blank">
-      <img  src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="email">
-    <a/>
-  </p>
-</div> 
+### Hi I'm Kaylee! 👋
+A 21-year-old Full-Stack Engineer at [Everfund](https://everfund.com) based in the United Kingdom. 
+
+- 🌐 Check out my [Website](https://www.kayleewilliams.dev) to learn more about me.
+- 🌱 I’m currently learning Svelte.
+- 🔭 I’m currently working on a few projects, including a [Svelte](https://svelte.dev/) project to provide valuable insights for Discord communities.
+- 🍿 I'm a fan of all sorts of films & tv shows such as Star Wars, Marvel, Gravity Falls & The Owl House
+
+<!-- Connect with me -->
+## 📫 Connect With Me!
+Get in touch with me on [LinkedIn](https://www.linkedin.com/in/kaylee-w)!
+
 
 
 <!---
