@@ -4,7 +4,7 @@ A 21-year-old Full-Stack Engineer at [Everfund](https://everfund.com) based in t
 - 🌐 Check out my [Website](https://www.kayleewilliams.dev) to learn more about me.
 - 🌱 I’m currently learning Svelte.
 - 🔭 I’m currently working on a few projects, including a [Svelte](https://svelte.dev/) project to provide valuable insights for Discord communities.
-- 🍿 I'm a fan of all sorts of films & tv shows such as Star Wars, Marvel, Gravity Falls & The Owl House
+- 🍿 I'm a fan of all sorts of films & tv shows such as Star Wars, Marvel, Gravity Falls & The Owl House.
 
 <!-- Connect with me -->
 ## 📫 Connect With Me!
