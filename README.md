@@ -1,5 +1,5 @@
 ### Hi, I'm Kaylee! 👋  
-Full-Stack Engineer at [Consent](https://www.consent.io/) | Based in the UK  
+Founding Engneer at [Consent](https://www.consent.io/) and the Co-Author of [c15t](https://c15t.com) | Based in the UK  
 
 - 🌐 Check out my [Website](https://www.kayleewilliams.dev) to learn more about me.  
 - 🛠️ Currently mostly working with **TypeScript, React and more!**  
