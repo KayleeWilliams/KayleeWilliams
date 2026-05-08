@@ -1,6 +1,6 @@
 ### Hi, I'm Kaylee! 👋  
-Founding Engneer at [Consent](https://www.consent.io/) and the Co-Author of [c15t](https://c15t.com) | Based in the UK  
-Check out my [Website](https://www.kaylee.dev) to learn more about me.  
+Founding Engneer at [Inth](https://inth.com) and the Co-Author of [c15t](https://c15t.com) | Based in the UK  
+Check out my [Website](https://kaylee.dev) to learn more about me.  
 
 <!-- Connect with me -->
 ### 📫 Connect With Me!
